@@ -17,7 +17,7 @@
 * ✅ https://www.youtube.com/watch?v=u433nrxdf5k - Лекция по временным рядам
 
 ## Глубокое обучение:
-* ➕ http://yerevann.com/a-guide-to-deep-learning/ - A Guide to Deep Learning by Yerevann
+* 🍒 http://yerevann.com/a-guide-to-deep-learning/ - A Guide to Deep Learning by Yerevann
 * 🍒 http://cs231n.stanford.edu/syllabus.html - Stanford CS231n
 * 🍒 http://course.fast.ai/ - Practical Deep Learning For Coders
 
@@ -30,7 +30,8 @@
 * 🍒 https://github.com/ChristosChristofidis/awesome-deep-learning - Awesome Deep Learning
 
 ## Книги:
-* ➕ https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningBook.pdf - Deep Learning Book - в начале есть vf, необходимая в работе➕ http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf - Elements of Statistical Learning, главы 1-4, 7.
+* ➕ https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningBook.pdf - Deep Learning Book - в начале есть математика, необходимая в работе
+* ➕ http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf - Elements of Statistical Learning, главы 1-4, 7.
 
 ## В конце-концов:
 * ✅ http://www.itshared.org/2015/10/data-science-interview-questions.html - Убедись, что на много отсюда сможешь ответить
