@@ -6,6 +6,7 @@
 
 ## Повторить математику
 * ✅ http://students.brown.edu/seeing-theory/ - Тервер, матстат
+* ✅ https://stepik.org/course/Основы-статистики-76/ - Матстат
 * ✅ https://sites.google.com/site/butwhymath/ - Алгебра, диф.исчисление, комплексные числа, Фурье
 * ✅ http://immersivemath.com/ila/index.html - Линал
 * ✅ https://stepik.org/course/Дискретные-структуры-83/syllabus - Дискретка
