@@ -15,6 +15,8 @@
 ## Основы машинного обучения
 * ✅ https://www.coursera.org/learn/machine-learning - Классический курс от Andrew Ng
 * ➕ https://www.coursera.org/specializations/machine-learning-data-analysis - Специализация от Яндекса и МФТИ
+* 🍒 https://github.com/esokolov/ml-course-msu - Курс от МГУ, много математики
+
 * ✅ https://www.youtube.com/watch?v=u433nrxdf5k - Лекция по временным рядам
 
 ## Глубокое обучение
@@ -25,6 +27,11 @@
 ## NLP
 * ➕ http://web.stanford.edu/class/cs224n/ - Stanford CS224n
 * 🍒 https://nlpub.ru/ - NLPub
+
+## Обучение с подкреплением
+* 🍒 http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html - UCL Course on RL
+* 🍒 http://rll.berkeley.edu/deeprlcourse/#lecture-videos - RL от Berkeley
+* 🍒 https://github.com/yandexdataschool/Practical_RL - RL от ШАДа
 
 ## Компиляции
 * ➕ http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mltut.htm
