@@ -15,6 +15,7 @@
 ## Основы машинного обучения
 * ✅ https://www.coursera.org/learn/machine-learning - Классический курс от Andrew Ng
 * ➕ https://www.coursera.org/specializations/machine-learning-data-analysis - Специализация от Яндекса и МФТИ
+* ➕ http://wiki.cs.hse.ru/Машинное_обучение_1 - Курс от ВШЭ
 * 🍒 https://github.com/esokolov/ml-course-msu - Курс от МГУ, много математики
 
 * ✅ https://www.youtube.com/watch?v=u433nrxdf5k - Лекция по временным рядам
