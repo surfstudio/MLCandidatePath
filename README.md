@@ -41,7 +41,7 @@
 
 ## Книги
 * ➕ https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningBook.pdf - Deep Learning Book - в начале есть математика, необходимая в работе
-* ➕ http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf - Elements of Statistical Learning, главы 1-4, 7.
+* ➕ https://web.stanford.edu/~hastie/Papers/ESLII.pdf - Elements of Statistical Learning, главы 1-4, 7.
 
 ## В конце-концов
 * ✅ http://www.itshared.org/2015/10/data-science-interview-questions.html - Убедись, что на много отсюда сможешь ответить
