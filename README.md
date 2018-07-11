@@ -40,7 +40,7 @@
 * 🍒 https://github.com/ChristosChristofidis/awesome-deep-learning - Awesome Deep Learning
 
 ## Книги
-* ➕ https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningBook.pdf - Deep Learning Book - в начале есть математика, необходимая в работе
+* ➕ http://www.deeplearningbook.org/ - Deep Learning Book - в начале есть математика, необходимая в работе
 * ➕ https://web.stanford.edu/~hastie/Papers/ESLII.pdf - Elements of Statistical Learning, главы 1-4, 7.
 
 ## В конце-концов
