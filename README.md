@@ -17,13 +17,15 @@
 * ➕ https://www.coursera.org/specializations/machine-learning-data-analysis - Специализация от Яндекса и МФТИ
 * ➕ http://wiki.cs.hse.ru/Машинное_обучение_1 - Курс от ВШЭ
 * 🍒 https://github.com/esokolov/ml-course-msu - Курс от МГУ, много математики
-
 * ✅ https://www.youtube.com/watch?v=u433nrxdf5k - Лекция по временным рядам
 
 ## Глубокое обучение
+
+* ✅ https://dlcourse.ai/ - Русский курс по Deep Learning от Семёна Козлова
+* ➕ https://www.coursera.org/specializations/deep-learning - Мощная и классная специализация по DL, состоящая из 5 курсов
+* ➕ http://cs231n.stanford.edu/syllabus.html - Stanford CS231n
+* 🍒 https://www.fast.ai/2019/01/24/course-v3/ - Practical Deep Learning For Coders
 * 🍒 http://yerevann.com/a-guide-to-deep-learning/ - A Guide to Deep Learning by Yerevann
-* 🍒 http://cs231n.stanford.edu/syllabus.html - Stanford CS231n
-* 🍒 http://course.fast.ai/ - Practical Deep Learning For Coders
 
 ## NLP
 * ➕ http://web.stanford.edu/class/cs224n/ - Stanford CS224n
